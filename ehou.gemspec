@@ -6,11 +6,11 @@ require 'ehou/version'
 Gem::Specification.new do |spec|
   spec.name          = "ehou"
   spec.version       = Ehou::VERSION
-  spec.authors       = ["ikeda"]
-  spec.email         = ["ikeda@koozyt.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.authors       = ["ikesato"]
+  spec.email         = ["github@koozyt.com"]
+  spec.summary       = %q{Japanese Ehou converter}
+  spec.description   = %q{Patches Date and Time to add methods to convert to Japanese Ehou direction.}
+  spec.homepage      = "https://github.com/koozyt/ehou"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
@@ -20,5 +20,4 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency "rspec"
 end
