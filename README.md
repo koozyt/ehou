@@ -1,6 +1,6 @@
 # Ehou
 
-Patches Date and Time to add methods and convert to Japanese **Ehou** direction.
+Patches `Date` and `Time` to add methods and convert to Japanese **Ehou** direction.
 
 Ehou is the lucky direction of the year which is determined every year by the [Celestial stems][1].
 It is customary in Japan at Setsubun (celebrated on Feb 3) to eat a special sushi roll in silence facing the "Ehou" direction for good fortune.
