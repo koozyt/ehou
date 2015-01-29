@@ -10,5 +10,9 @@ module Ehou
   end
 end
 
-Date.include(Ehou::EhouExtend)
-Time.include(Ehou::EhouExtend)
+::Date.class_eval do
+  include ::Ehou::EhouExtend
+end
+::Time.class_eval do
+  include ::Ehou::EhouExtend
+end
