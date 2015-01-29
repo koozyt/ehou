@@ -3,7 +3,7 @@
 Patches Date and Time to add methods to convert to Japanese **Ehou** direction.
 
 Ehou is lucky direction in Japan changing every year.  
-see. http://ja.wikipedia.org/wiki/%E6%AD%B3%E5%BE%B3%E7%A5%9E
+see. http://ja.wikipedia.org/wiki/%E6%AD%B3%E5%BE%B3%E7%A5%9E#.E6.81.B5.E6.96.B9
 
 ## Usage
 
