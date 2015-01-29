@@ -11,7 +11,7 @@ see. http://ja.wikipedia.org/wiki/%E6%AD%B3%E5%BE%B3%E7%A5%9E
 require 'ehou'
 
 Date.new(2015).ehou         # "西南西"
-Date.new(2015).ehou.angle   # 255
+Date.new(2015).ehou.angle   # 255 (0 means north, 90 is east, 180 is south)
 Time.local(2016).ehou       # "南南東"
 Time.local(2016).ehou.angle # 165
 ```````````````
