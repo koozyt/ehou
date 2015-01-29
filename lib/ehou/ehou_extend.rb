@@ -1,7 +1,7 @@
 # coding: utf-8
 
 module Ehou
-  module EhouTime
+  module EhouExtend
     def ehou
       return @ehou if @ehou
       @ehou = EhouString.new(self.year)
@@ -9,4 +9,5 @@ module Ehou
   end
 end
 
-Time.include(Ehou::EhouTime)
+Date.include(Ehou::EhouExtend)
+Time.include(Ehou::EhouExtend)
