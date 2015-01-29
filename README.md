@@ -1,9 +1,16 @@
 # Ehou
 
-Patches Date and Time to add methods to convert to Japanese **Ehou** direction.
+Patches Date and Time to add methods and convert to Japanese **Ehou** direction.
 
-Ehou is lucky direction in Japan changing every year.  
-see. http://ja.wikipedia.org/wiki/%E6%AD%B3%E5%BE%B3%E7%A5%9E#.E6.81.B5.E6.96.B9
+Ehou is the lucky direction of the year which is determined every year by the [Celsestial][1] stems.
+It is part of a Japanese custom in Setsubun (celebrated on Feb 3) to eat a special sushi roll in silence facing the "Ehou" direction for good fortune.
+
+Have a great Setsubun!
+
+For more info on "Ehou", see: [Ehou][2]
+
+[1]:http://en.wikipedia.org/wiki/Celestial_stem
+[2]:http://ja.wikipedia.org/wiki/%E6%AD%B3%E5%BE%B3%E7%A5%9E#.E6.81.B5.E6.96.B9
 
 ## Usage
 
