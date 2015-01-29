@@ -17,11 +17,15 @@ For more info on "Ehou", see: [Ehou][2]
 ```ruby
 require 'ehou'
 
-Date.new(2015).ehou         # "西南西"
-Date.new(2015).ehou.angle   # 255 (0 means north, 90 is east, 180 is south)
-Time.local(2016).ehou       # "南南東"
-Time.local(2016).ehou.angle # 165
-```````````````
+Date.new(2015).ehou           # "西南西"
+Date.new(2015).ehou.angle     # 255 (0 means north, 90 is east, 180 is south)
+Date.new(2015).ehou.to_en     # "West-southwest"
+Date.new(2015).ehou.shorten   # "WSW"
+Time.local(2016).ehou         # "南南東"
+Time.local(2016).ehou.angle   # 165
+Time.local(2016).ehou.to_en   # "South-southeast"
+Time.local(2016).ehou.shorten # "SSE"
+```
 
 ## Installation
 
