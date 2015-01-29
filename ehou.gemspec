@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["ikesato"]
   spec.email         = ["github@koozyt.com"]
   spec.summary       = %q{Japanese Ehou converter}
-  spec.description   = %q{Patches Date and Time to add methods to convert to Japanese Ehou direction.}
+  spec.description   = %q{Patches Date and Time to add methods and convert to Japanese Ehou direction.}
   spec.homepage      = "https://github.com/koozyt/ehou"
   spec.license       = "MIT"
 
