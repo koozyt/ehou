@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/sample-of-ikesato/travis-test.svg?branch=master)](https://travis-ci.org/sample-of-ikesato/travis-test)
 [![Coverage Status](https://coveralls.io/repos/sample-of-ikesato/travis-test/badge.svg?branch=master)](https://coveralls.io/r/sample-of-ikesato/travis-test?branch=master)
+[![Code Climate](https://codeclimate.com/github/sample-of-ikesato/travis-test/badges/gpa.svg)](https://codeclimate.com/github/sample-of-ikesato/travis-test)
 
 Patches `Date` and `Time` to add methods and convert to Japanese **Ehou** direction.
 
