@@ -1,5 +1,7 @@
 # Ehou
 
+[![Build Status](https://travis-ci.org/sample-of-ikesato/travis-test.svg?branch=master)](https://travis-ci.org/sample-of-ikesato/travis-test)
+
 Patches `Date` and `Time` to add methods and convert to Japanese **Ehou** direction.
 
 Ehou is the lucky direction of the year which is determined every year by the [Celestial stems][1].
