@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
 gemspec
-gem 'rspec'
-gem 'activesupport'
+
+group :test do
+  gem 'rspec'
+  gem 'activesupport'
+  gem 'coveralls', :require => false
+end
