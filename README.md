@@ -1,6 +1,7 @@
 # Ehou
 
 [![Build Status](https://travis-ci.org/sample-of-ikesato/travis-test.svg?branch=master)](https://travis-ci.org/sample-of-ikesato/travis-test)
+[![Coverage Status](https://coveralls.io/repos/sample-of-ikesato/travis-test/badge.svg?branch=master)](https://coveralls.io/r/sample-of-ikesato/travis-test?branch=master)
 
 Patches `Date` and `Time` to add methods and convert to Japanese **Ehou** direction.
 
